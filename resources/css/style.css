@@ -35,3 +35,14 @@ p {
   font-weight: 300;
   font-size: 42px;
 }
+
+.images {
+    display: block;
+    text-align: center;
+    margin: 25px auto;
+}
+
+.copyright {
+    color: gray;
+    text-align: right;
+}
